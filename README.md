@@ -2,7 +2,7 @@
   <a href="https://wa.me/6281553759301"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;No+longer+have+a+mother."></a>
 </p>
 
-<p align="center"> <a href="https://wa.me/6281553759301"><img src="https://avatars.githubusercontent.com/u/83255517?s=1000&v=4"></a> </p>
+<p align="center"> <a href="https://wa.me/6281553759301"><img src="https://media.discordapp.net/attachments/950463839688855643/975059761630433320/IMG-20220514-WA0037.jpg"></a> </p>
 
 <p align="center"> <a href="KaysaSalsa"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=KaysaSalsa&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="KaysaSalsa" /></a> </p><br> 
 <div align="center">
