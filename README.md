@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wa.me/6281553759301"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;No+longer+have+a+mother."></a>
+  <a href="https://wa.me/6285648253605"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;No+longer+have+a+mother."></a>
 </p>
 
 <p align="center"> <a href="https://wa.me/6281553759301"><img src="https://media.discordapp.net/attachments/950463839688855643/975059761630433320/IMG-20220514-WA0037.jpg"></a> </p>
@@ -23,11 +23,11 @@
 * Age : 13 y.o
 * Place & year of birth : Indonesia => Jawa Timur => Tulungagung, 2008-7-07
 * Gender : Female
-* My boyfriend : Fadly
+* My boyfriend : You
 
 
 # Contact Me & My bot Whatsapp
-* My WhatsApp 👤 <a href="https://wa.me/6281553759301" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+* My WhatsApp 👤 <a href="https://wa.me/6285648253605" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 * Instagram <a href="https://www.instagram.com/KaysaSalsa020" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 * 👾Bot WhatsApp <a href="https://wa.me/6282244301751" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
 
@@ -37,9 +37,9 @@
     * Youtube stats badges
     <br />
     <br />
-    <a href="https://youtube.com/c/KAYSASALSA">
+    <a href="https://youtube.com/">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://youtube.com/c/KAYSASALSA">
+    <a href="https://youtube.com/">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
    </p>
 </p>
